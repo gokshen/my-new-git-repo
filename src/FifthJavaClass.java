@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class FifthJavaClass {
+public class FifthJavaClass {
+    //This will also have some java codes
 }
